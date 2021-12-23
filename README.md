@@ -1,7 +1,5 @@
 ## Hi there 🤘, I'm Manu 
 
-
-
 <p>
   <a href="https://github.com/manudefrutosvila" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="manudefrutosvila" height="28px" width="28px" />
@@ -20,9 +18,10 @@
   </a>
 </p>
 
-- 🧑‍💻 I'm a passionate Software Engineer focused in Frontend Web development, Mobile and Devops. 
+- 🧑‍💻 I'm a passionate Software Engineer focused in Frontend Web development, Mobile and Devops
+- 🔭 I have experience since 2004!
 - ❤️ W3C standards lover. Javascript, HTML, CSS, SVG.
-- 📍 Based in Valencia, Spain. But all around the world in my camper van 🚐
+- 📍 Based in Valencia, Spain. But all around the world from my camper van 🚐
 - 📚 Always in continuous learning...
 - ⚡ Fun fact: I am a 🦉 night owl, but I don't like 🌙 dark mode
 - 🌈 He/him
@@ -37,5 +36,3 @@ npx manudefrutosvila
 ![Manu's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manudefrutosvila&layout=compact&langs_count=10&theme=nightowl&count_private=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=manudefrutosvila&color=yellow)
-
-
