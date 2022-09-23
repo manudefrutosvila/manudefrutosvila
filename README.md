@@ -34,5 +34,3 @@ npx manudefrutosvila
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manudefrutosvila&count_private=true&show_icons=true&theme=nightowl)
 
 ![Manu's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manudefrutosvila&layout=compact&langs_count=10&theme=nightowl&count_private=true)
-
-![Profile views](https://komarev.com/ghpvc/?username=manudefrutosvila&color=yellow)
