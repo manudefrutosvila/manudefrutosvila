@@ -1,6 +1,6 @@
-## Hi there 🤘, I'm Manu 
+<h2 align="center">Hi there 🤘, I'm Manu</h2>
 
-<p style="display: flex; gap: 2rem">
+<p align="center" width="300">
   <a href="https://github.com/manudefrutosvila" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="manudefrutosvila" height="28px" width="28px" 
   /></a>
