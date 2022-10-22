@@ -31,6 +31,8 @@
 npx manudefrutosvila
 ```
 
+[![Manu's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manudefrutosvila&theme=dark&date_format=%5BY.%5Dn.j&fire=46DD1E&theme=nightowl)](https://git.io/streak-stats)
+
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=manudefrutosvila&count_private=true&show_icons=true&theme=nightowl)
 
 ![Manu's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manudefrutosvila&layout=compact&langs_count=10&theme=nightowl&count_private=true)
